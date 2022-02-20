@@ -1,0 +1,33 @@
+﻿body {
+    background-color: gray;
+}
+
+#lblTitulo {
+    font-size: 32px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+#buscador {
+    text-align: right;
+}
+
+#contenedor {
+    text-align: center;
+    display: grid;
+    font-family:'Arial Rounded MT';
+    font-size:20px;
+}
+
+#contenedorBotones {
+    text-align: center;
+    display: block ruby;
+}
+
+#imgConsumo {
+    height: 400px;
+    width: 400px;
+}
+
+
+
